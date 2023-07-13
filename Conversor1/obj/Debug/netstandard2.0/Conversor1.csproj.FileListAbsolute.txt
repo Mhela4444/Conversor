@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Vistas\Menuprincipal.xaml.g.cs
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Conversor1\Conversor1\bin\Debug\netstandard2.0\Conversor1.deps.json
+C:\Users\USER\source\repos\Conversor1\Conversor1\bin\Debug\netstandard2.0\Conversor1.dll
+C:\Users\USER\source\repos\Conversor1\Conversor1\bin\Debug\netstandard2.0\ref\Conversor1.dll
+C:\Users\USER\source\repos\Conversor1\Conversor1\bin\Debug\netstandard2.0\Conversor1.pdb
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.dll
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\refint\Conversor1.dll
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Conversor1.pdb
+C:\Users\USER\source\repos\Conversor1\Conversor1\obj\Debug\netstandard2.0\Vistas\Convertir.xaml.g.cs
